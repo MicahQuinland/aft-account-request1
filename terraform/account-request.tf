@@ -8,7 +8,7 @@ module "sandbox_account_03" {
     AccountEmail = "micahq+dec01+sbx3@amazon.com"
     AccountName  = "dec01-sbx3"
     # Syntax for top-level OU
-    ManagedOrganizationalUnit = "Prod-AFT"
+    ManagedOrganizationalUnit = "Prod-AFT (ou-2j5p-yff4vk6s)"
     # Syntax for nested OU
     # ManagedOrganizationalUnit = "Sandbox (ou-xfe5-a8hb8ml8)"
     SSOUserEmail     = "micahq+dec01@amazon.com"
